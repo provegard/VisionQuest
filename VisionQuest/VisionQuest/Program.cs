@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using VisionThing;
 
 namespace VisionQuest
 {
@@ -10,7 +11,7 @@ namespace VisionQuest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello VisionQuest");
+            Console.WriteLine("Hello VisionQuest: " + new Thing());
         }
     }
 }
