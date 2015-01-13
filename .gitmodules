@@ -1,0 +1,3 @@
+[submodule "VisionQuest/VisionThing"]
+	path = VisionQuest/VisionThing
+	url = git@github.com:provegard/VisionThing.git
